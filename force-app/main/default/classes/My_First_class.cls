@@ -5,6 +5,6 @@ public class My_First_class {
         b=20;
         c=a+b;
         system.debug('addition is '+C);
-        
+        system.debug('Commit data trial');
     }
 }
