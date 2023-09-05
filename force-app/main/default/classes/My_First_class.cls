@@ -7,5 +7,6 @@ public class My_First_class {
         system.debug('addition is '+C);
         d=a*b;
         system.debug('Multiplication  is '+d);
+        system.debug('Debug from github.dev');
     }
 }
