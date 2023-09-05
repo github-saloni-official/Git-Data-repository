@@ -5,11 +5,6 @@ public class My_First_class {
         b=20;
         c=a+b;
         system.debug('addition is '+C);
-<<<<<<< Updated upstream
         
-=======
-        system.debug('Commit data trial');
-        system.debug('dev branch Commit data trial');
->>>>>>> Stashed changes
     }
 }
