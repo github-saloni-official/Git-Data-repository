@@ -8,6 +8,6 @@ public class My_First_class {
         d=a*b;
         system.debug('Multiplication  is '+d);
         system.debug('Debug from github.dev');
-        system.debug('push data');
+        system.debug('push data Pull Request commit');
     }
 }
