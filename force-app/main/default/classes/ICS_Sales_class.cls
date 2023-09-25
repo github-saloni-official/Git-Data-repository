@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class ICS_Sales_class {
     public void add(){
         //Code Looks Good Can be pushed keep unchanged
@@ -10,6 +9,3 @@ public class ICS_Sales_class {
         system.debug('addition is '+C);
     }
 }
-=======
-
->>>>>>> 4c134c98dd510ae4eb688460ea4bd9a2e2fc8d1d
