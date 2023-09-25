@@ -8,7 +8,7 @@ public class ICS_Sales_class {
         d=a*b;
         system.debug('Multiplication  is '+d);
         system.debug('Debug from github.dev');
-        system.debug('push data Pull Request commit');
+        system.debug('push data Pull Request commit');//Looks good
     }
 
 }
