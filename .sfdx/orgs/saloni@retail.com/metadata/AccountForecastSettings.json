@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "AccountForecastSettings/AccountForecastSettings.accountForecastSetting",
+      "fullName": "AccountForecastSettings",
+      "id": "0yu5i000000wkSbAAI",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "AccountForecastSettings"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Account_Task__c.Customer_Task_Assignment.approvalProcess",
+      "fullName": "cgcloud__Account_Task__c.Customer_Task_Assignment",
+      "id": "04a5i000000dui5AAA",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Order__c.Order_Direct_Approval_Web.approvalProcess",
+      "fullName": "cgcloud__Order__c.Order_Direct_Approval_Web",
+      "id": "04a5i000000duiBAAQ",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Order__c.Order_Direct_Approval_Mobility.approvalProcess",
+      "fullName": "cgcloud__Order__c.Order_Direct_Approval_Mobility",
+      "id": "04a5i000000duiAAAQ",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Order__c.Order_Approval_No_Workflow_Web.approvalProcess",
+      "fullName": "cgcloud__Order__c.Order_Approval_No_Workflow_Web",
+      "id": "04a5i000000dui7AAA",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__User_Document__c.Daily_Report_Approval_Direct.approvalProcess",
+      "fullName": "cgcloud__User_Document__c.Daily_Report_Approval_Direct",
+      "id": "04a5i000000duiEAAQ",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Order__c.Order_Approval_Process_for_Web.approvalProcess",
+      "fullName": "cgcloud__Order__c.Order_Approval_Process_for_Web",
+      "id": "04a5i000000dui9AAA",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Payment__c.Payments_Approval_Process.approvalProcess",
+      "fullName": "cgcloud__Payment__c.Payments_Approval_Process",
+      "id": "04a5i000000duiCAAQ",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Order__c.Order_Approval_No_Workflow_Mobility.approvalProcess",
+      "fullName": "cgcloud__Order__c.Order_Approval_No_Workflow_Mobility",
+      "id": "04a5i000000dui6AAA",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Order__c.Order_Approval_Process_for_Mobility.approvalProcess",
+      "fullName": "cgcloud__Order__c.Order_Approval_Process_for_Mobility",
+      "id": "04a5i000000dui8AAA",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__User_Document__c.User_Document_Approval.approvalProcess",
+      "fullName": "cgcloud__User_Document__c.User_Document_Approval",
+      "id": "04a5i000000duiFAAQ",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055i00000BU6s2AAD",
+      "createdByName": "Harsh Sharma",
+      "createdDate": "2023-06-20T16:34:26.000Z",
+      "fileName": "approvalProcesses/cgcloud__Rate_Based_Funding__c.RBF_Approval_Process.approvalProcess",
+      "fullName": "cgcloud__Rate_Based_Funding__c.RBF_Approval_Process",
+      "id": "04a5i000000duiDAAQ",
+      "lastModifiedById": "0055i00000BU6s2AAD",
+      "lastModifiedByName": "Harsh Sharma",
+      "lastModifiedDate": "2023-06-20T16:34:26.000Z",
+      "type": "ApprovalProcess"
+    }
+  ]
+}
