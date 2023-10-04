@@ -654,6 +654,62 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "skilltypes",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "skilltype",
+        "xmlName": "SkillType",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "skills",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "skill",
+        "xmlName": "Skill",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "serviceChannels",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "serviceChannel",
+        "xmlName": "ServiceChannel",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "queueRoutingConfigs",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "queueRoutingConfig",
+        "xmlName": "QueueRoutingConfig",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "servicePresenceStatuses",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "servicePresenceStatus",
+        "xmlName": "ServicePresenceStatus",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "presenceDeclineReasons",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "presenceDeclineReason",
+        "xmlName": "PresenceDeclineReason",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "presenceUserConfigs",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "presenceUserConfig",
+        "xmlName": "PresenceUserConfig",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "authproviders",
         "inFolder": false,
         "metaFile": false,
@@ -866,6 +922,30 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "externalAIModels",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "externalAIModel",
+        "xmlName": "ExternalAIModel",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "serviceAISetupDescriptions",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "serviceAISetupDescription",
+        "xmlName": "ServiceAISetupDefinition",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "serviceAISetupFields",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "serviceAISetupField",
+        "xmlName": "ServiceAISetupField",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "platformEventChannels",
         "inFolder": false,
         "metaFile": false,
@@ -994,6 +1074,22 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "communityThemeDefinitions",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "communityThemeDefinition",
+        "xmlName": "CommunityThemeDefinition",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "communityTemplateDefinitions",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "communityTemplateDefinition",
+        "xmlName": "CommunityTemplateDefinition",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "managedContentTypes",
         "inFolder": false,
         "metaFile": false,
@@ -1028,11 +1124,50 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "digitalExperienceConfigs",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "digitalExperienceConfig",
+        "xmlName": "DigitalExperienceConfig",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "experiences",
+        "inFolder": false,
+        "metaFile": false,
+        "xmlName": "ExperienceBundle",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "networks",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "network",
+        "xmlName": "Network",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "networkBranding",
         "inFolder": false,
         "metaFile": true,
         "suffix": "networkBranding",
         "xmlName": "NetworkBranding",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "navigationMenus",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "navigationMenu",
+        "xmlName": "NavigationMenu",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "audience",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "audience",
+        "xmlName": "Audience",
         "childXmlNames": []
       },
       {
@@ -1084,6 +1219,56 @@
         "childXmlNames": []
       },
       {
+        "childXmlNames": [
+          "ManagedTopic"
+        ],
+        "directoryName": "managedTopics",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "managedTopics",
+        "xmlName": "ManagedTopics"
+      },
+      {
+        "directoryName": "personAccountOwnerPowerUsers",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "personAccountOwnerPowerUser",
+        "xmlName": "PersonAccountOwnerPowerUser",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "moderation",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "keywords",
+        "xmlName": "KeywordList",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "userCriteria",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "userCriteria",
+        "xmlName": "UserCriteria",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "moderation",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "rule",
+        "xmlName": "ModerationRule",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "cmsConnectSource",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "cmsConnectSource",
+        "xmlName": "CMSConnectSource",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "samlssoconfigs",
         "inFolder": false,
         "metaFile": false,
@@ -1106,6 +1291,66 @@
         "suffix": "actionLinkGroupTemplate",
         "xmlName": "ActionLinkGroupTemplate",
         "childXmlNames": []
+      },
+      {
+        "directoryName": "liveChatDeployments",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "liveChatDeployment",
+        "xmlName": "LiveChatDeployment",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "liveChatButtons",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "liveChatButton",
+        "xmlName": "LiveChatButton",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "liveChatAgentConfigs",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "liveChatAgentConfig",
+        "xmlName": "LiveChatAgentConfig",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "mlDomains",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "mlDomain",
+        "xmlName": "MlDomain",
+        "childXmlNames": []
+      },
+      {
+        "childXmlNames": [
+          "BotVersion"
+        ],
+        "directoryName": "bots",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "bot",
+        "xmlName": "Bot"
+      },
+      {
+        "directoryName": "botTemplates",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "botTemplate",
+        "xmlName": "BotTemplate",
+        "childXmlNames": []
+      },
+      {
+        "childXmlNames": [
+          "BotBlockVersion"
+        ],
+        "directoryName": "botBlocks",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "botBlock",
+        "xmlName": "BotBlock"
       },
       {
         "directoryName": "synonymDictionaries",
@@ -1137,6 +1382,14 @@
         "metaFile": false,
         "suffix": "LeadConvertSetting",
         "xmlName": "LeadConvertSettings",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "liveChatSensitiveDataRule",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "liveChatSensitiveDataRule",
+        "xmlName": "LiveChatSensitiveDataRule",
         "childXmlNames": []
       },
       {
@@ -1348,6 +1601,14 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "EmbeddedServiceLiveAgent",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "EmbeddedServiceLiveAgent",
+        "xmlName": "EmbeddedServiceLiveAgent",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "EmbeddedServiceBranding",
         "inFolder": false,
         "metaFile": false,
@@ -1404,11 +1665,27 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "omniSupervisorConfigs",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "omniSupervisorConfig",
+        "xmlName": "OmniSupervisorConfig",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "PlatformEventSubscriberConfigs",
         "inFolder": false,
         "metaFile": false,
         "suffix": "platformEventSubscriberConfig",
         "xmlName": "PlatformEventSubscriberConfig",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "portalDelegablePermissionSet",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "portalDelegablePermissionSet",
+        "xmlName": "PortalDelegablePermissionSet",
         "childXmlNames": []
       },
       {
@@ -1425,7 +1702,6 @@
     "testRequired": false
   },
   "warnings": [
-    "The \"force mdapi describemetadata\" command has been deprecated. Use \"org list metadata-types\" instead.",
     "The loglevel flag is no longer in use on this command. You may use it without error, but it will be ignored.\nSet the log level using the `SFDX_LOG_LEVEL` environment variable."
   ]
 }
