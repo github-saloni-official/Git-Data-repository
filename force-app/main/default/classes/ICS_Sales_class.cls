@@ -7,7 +7,5 @@ public class ICS_Sales_class {
         b=20;
         c=a+b;
         system.debug('addition is '+C);
-        c=b-a;//apply formula properly
-        system.debug('Substraction is '+c);
     }
 }
