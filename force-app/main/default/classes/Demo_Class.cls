@@ -9,6 +9,6 @@ public class Demo_Class {
         //Code Looks Good Can be pushed keep unchanged
         c=b*a;
         system.debug('Mul is '+C);
-        //demo
+        //Trial to Retail Org
     }
 }
