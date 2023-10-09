@@ -10,5 +10,6 @@ public class Demo_Class {
         c=b*a;
         system.debug('Mul is '+C);
         //add Demo Comment
+        //add this code as final
     }
 }
