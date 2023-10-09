@@ -10,5 +10,6 @@ public class Demo_Class {
         c=b*a;
         system.debug('Mul is '+C);
         //Trial to Retail Org
+        //Error
     }
 }
