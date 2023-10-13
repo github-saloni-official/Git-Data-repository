@@ -1,0 +1,8 @@
+Name: Git Repo Data
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - classes/Demo_Class.cls
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - ApexClass

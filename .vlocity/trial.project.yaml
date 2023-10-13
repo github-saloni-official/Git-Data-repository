@@ -1,0 +1,8 @@
+Name: Trial
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - %vlocity_namespace%c%vlocity_namespace%l%vlocity_namespace%a%vlocity_namespace%s%vlocity_namespace%s%vlocity_namespace%e%vlocity_namespace%s%vlocity_namespace%/%vlocity_namespace%A%vlocity_namespace%P%vlocity_namespace%I%vlocity_namespace%H%vlocity_namespace%e%vlocity_namespace%l%vlocity_namespace%p%vlocity_namespace%e%vlocity_namespace%r%vlocity_namespace%.%vlocity_namespace%c%vlocity_namespace%l%vlocity_namespace%s%vlocity_namespace%
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - ApexClass

@@ -1,0 +1,8 @@
+Name: 1
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - classes/Demo_Class.cls
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - ApexClass
