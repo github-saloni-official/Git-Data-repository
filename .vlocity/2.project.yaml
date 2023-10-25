@@ -1,0 +1,8 @@
+Name: 2
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - classes/Class_Commit
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - ApexClass
