@@ -3,6 +3,7 @@ public with sharing class Github_demo {
         System.debug('My git Code ');
         System.debug('Code changes in Tester branch');
         System.debug('Code changes in Tester branch to Master Branch');
+        System.debug('Data from tester to main');
 
     }
 }
